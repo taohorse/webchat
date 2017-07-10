@@ -1,7 +1,7 @@
 # webchat
 用tornado+jQuery实现WebSocket聊天室
 
-部署说明：
+# 部署说明：
   1. 调试模式
      1.1 自动加载
          通过向Application实例传入参数debug=True，可以将程序以调试模式启动。比如：
